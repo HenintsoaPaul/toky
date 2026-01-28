@@ -172,3 +172,21 @@ The architecture should favor **readability over performance**.
 Toky aims to teach people **how to think with AI**, not just how to use it.
 
 The long-term vision is to make prompt literacy a core learning skill.
+
+## License
+
+Toky is **source-available** and licensed under the **Polyform Shield License**.
+
+You are free to:
+- View the source code
+- Learn from it
+- Modify it for personal or non-commercial use
+
+You may NOT:
+- Use this project for commercial purposes
+- Offer it as a hosted or SaaS service
+- Sell or rebrand derivative works
+
+For commercial usage or partnerships, please contact the project owner.
+
+© All rights reserved.
